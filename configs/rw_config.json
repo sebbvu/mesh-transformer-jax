@@ -26,6 +26,9 @@
 
   "train_set": "rw.train.index",
   "val_set": {},
+  
+  "eval_harness_tasks": [
+  ],
 
   "val_batches": 0,
   "val_every": 80,
